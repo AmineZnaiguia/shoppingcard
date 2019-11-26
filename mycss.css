@@ -1,0 +1,31 @@
+body{
+    background-color: #DBD8D8;
+}
+i{
+    font-size: 25px;
+}
+.img{
+    height: 400px;
+}
+
+.head-cont{
+   padding: 10px;
+   color: white;
+   margin-top: 10px;
+}
+.fas{
+    margin-right: 10px;
+}
+.block{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: white;
+    margin-top: 10px;
+}
+.compt{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
